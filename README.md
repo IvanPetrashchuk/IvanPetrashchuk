@@ -23,11 +23,7 @@ I love turning ideas into reality with scalable architecture and modern dev prac
 
 > Fullstack travel booking app with user auth, search filters, and payment integration.
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1FpT7XicJu-TxX8xI5YkyNT4PndbFggxs/view?usp=drive_link" width="30%"/>
-  <img src="https://drive.google.com/file/d/1WfnfBTkHu43x7JmORaRZfPVAcWf5S990/view?usp=drive_link" width="30%"/>
-  <img src="https://drive.google.com/file/d/1L5TyIuDVjhEEJ_zx0SsL-RPwaPbNZ_GP/view?usp=drive_link" width="30%"/>
-</p>
+[EnglishWords Screenshot]([https://via.placeholder.com/800x400?text=GoTravel+Preview](https://drive.google.com/file/d/1FpT7XicJu-TxX8xI5YkyNT4PndbFggxs/view?usp=drive_link))
 
 - Mobile-first UI using **React Native** & **Redux**
 - Secure RESTful API built with **Express** and **JWT**
