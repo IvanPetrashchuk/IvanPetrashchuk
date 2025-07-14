@@ -82,6 +82,25 @@ I love turning ideas into reality with scalable architecture and modern dev prac
 
 ---
 
+### 4. 🧩 **FinStan** —Automated Financial Assessment for Banking (VBA + MS SQL Server)
+
+> A financial risk assessment system developed for one of the largest banks in Ukraine. The solution streamlines audit processes, generates formal conclusions, and reduces the manual workload for financial auditors.
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1-yuf5e9qD0uAabC9SJLW1sphftyGWvip" width="100%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Nv4qlsPk5x6yO1R7KuhNB-XqLjI_WqUW" width="100%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1xucfDigtveN0-bQEWzmycIdelb4-fKaH" width="100%"/>
+</p>
+
+- Developed with **VBA (Excel Add-in)** and integrated with **MS SQL Server**
+- Automated generation of audit reports in **Word format**
+- Exchange of financial data via **FTP server**
+- Built-in **version control system** to manage and track audit logic updates
+- Created a custom toolbar for **profile-specific field population**
+- Designed to reduce time spent on manual checks and increase audit consistency
+
+---
+
 
 ## 📈 GitHub Stats
 
