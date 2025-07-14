@@ -101,7 +101,23 @@ I love turning ideas into reality with scalable architecture and modern dev prac
 
 ---
 
+### 5. 🧾 **FinBuilder** — Financial Reporting Add-in for Excel (VBA)
+> A custom Excel-based add-in built for a German company to automate and accelerate financial reporting. The solution enables analysts to quickly generate structured reports with minimal manual input.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1hggUvPZWxVo-g5Q1Bu-Hltnvtw3fN-Vj" width="100%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1lqwQYYKvfi9hUybAT-PCQAdr-3nUqnSI" width="100%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1CCbzwkjlk_Ii_a6ayxg9bw-TV74a9a_r" width="100%"/>
+</p>
+
+- Developed entirely in **VBA (Excel Add-in)** with a custom ribbon interface
+- Enables fast generation of complex financial reports and summaries
+- Designed for analysts and finance teams to reduce reporting time
+- Includes templates and logic for automatic field mapping
+- Saves dozens of hours per month on manual financial document preparation
+  
+---
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -110,7 +126,7 @@ I love turning ideas into reality with scalable architecture and modern dev prac
 </p>
 
 ---
-
+-->
 ## 📫 Contact Me
 
 - 📧 **Email**: [petrashchukim@gmail.com](mailto:petrashchukim@gmail.com)  
