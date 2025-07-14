@@ -10,8 +10,8 @@ I love turning ideas into reality with scalable architecture and modern dev prac
 
 - **Languages**: TypeScript, JavaScript, SQL, VBA
 - **Backend**: Node.js, Express, MongoDB, PostgreSQL, MySQL, MS SQL SERVER, SQLite
-- **Frontend**: React.js, Next.js, React Hook Form, Formik, Zod,React Query (TanStack Query), i18next, react-i18next, React Native,Expo, Redux Toolkit, Zustand, Material UI, HTML5, CSS3
-- **Testing**: Jest, Cypress,ESLint 
+- **Frontend**: React.js, Next.js, React Hook Form, Zod, React Query (TanStack Query), i18next, react-i18next, React Native, Expo, Redux Toolkit, Zustand, Material UI, HTML5, CSS3
+- **Testing**: Jest, Cypress, ESLint 
 - **DevOps**: Docker, GitHub Actions, PM2, Nginx, Postman
 - **Others**: REST, JWT, Redux Toolkit
 
